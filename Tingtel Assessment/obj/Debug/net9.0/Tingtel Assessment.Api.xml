@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tingtel Assessment.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Tingtel_Assessment.Controllers.GenerateTransactionController.CreateTransaction(System.Int32)">
+            <summary>
+            Creates transaction for authorize user 
+            </summary>
+            <param name="count">number of transaction.</param>
+            <returns>The newly created transactions.</returns>
+        </member>
+        <member name="M:Tingtel_Assessment.Controllers.GenerateTransactionController.CalculatePercentageIncrement(System.String)">
+             <summary>
+             Calculating percentage increament  provided Current month is higher than previous month for authorize user 
+            <param name="categoryname">Food,Transport,Utilities,Shopping,Health,Education.</param>
+             </summary>
+             <returns>Sending email if there any increment in certain item.</returns>
+        </member>
+        <member name="M:Tingtel_Assessment.Controllers.IdentityController.Register(Core.DTOs.Identity.RegisterUserDto)">
+            <summary>
+            Register a new user
+            </summary>
+            <param name="registerDto"></param>			
+            <returns></returns>
+        </member>
+        <member name="M:Tingtel_Assessment.Controllers.IdentityController.Login(Core.DTOs.Identity.LoginDto)">
+            <summary>
+            Logs in an existing user and returns a JWT token
+             </summary>
+            <param name="loginDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tingtel_Assessment.Controllers.IdentityController.GetUserById(System.String)">
+            <summary>
+            Retrieves a user by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

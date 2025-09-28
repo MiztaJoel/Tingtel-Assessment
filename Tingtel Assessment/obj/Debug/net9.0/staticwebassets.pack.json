@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\wwwroot\\Templates\\Analysis.html",
+      "PackagePath": "staticwebassets\\Templates\\Analysis.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Tingtel Assessment.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Tingtel Assessment.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Tingtel Assessment.Api.props",
+      "PackagePath": "build\\Tingtel Assessment.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Tingtel Assessment.Api.props",
+      "PackagePath": "buildMultiTargeting\\Tingtel Assessment.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Tingtel Assessment.Api.props",
+      "PackagePath": "buildTransitive\\Tingtel Assessment.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

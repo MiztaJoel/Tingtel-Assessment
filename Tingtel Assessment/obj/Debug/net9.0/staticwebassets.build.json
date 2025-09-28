@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "nbBguuG2Qt5CiEB7OIX9T8F+lDMaz3cvyZGePk0raGQ=",
+  "Source": "Tingtel Assessment.Api",
+  "BasePath": "_content/Tingtel Assessment.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tingtel Assessment.Api\\wwwroot",
+      "Source": "Tingtel Assessment.Api",
+      "ContentRoot": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\wwwroot\\",
+      "BasePath": "_content/Tingtel Assessment.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\obj\\Debug\\net9.0\\compressed\\y0561383mr-jbjtwxdcdn.gz",
+      "SourceId": "Tingtel Assessment.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Tingtel Assessment.Api",
+      "RelativePath": "Templates/Analysis#[.{fingerprint=jbjtwxdcdn}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\wwwroot\\Templates\\Analysis.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "u0kx9y2jht",
+      "Integrity": "YsvV4Fx7zyGwSJhh5phxRhP5JXshG+7Y1IOc/BwiYFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\wwwroot\\Templates\\Analysis.html"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\wwwroot\\Templates\\Analysis.html",
+      "SourceId": "Tingtel Assessment.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\wwwroot\\",
+      "BasePath": "_content/Tingtel Assessment.Api",
+      "RelativePath": "Templates/Analysis#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jbjtwxdcdn",
+      "Integrity": "8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\Analysis.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Templates/Analysis.html",
+      "AssetFile": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\obj\\Debug\\net9.0\\compressed\\y0561383mr-jbjtwxdcdn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002032520325"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsvV4Fx7zyGwSJhh5phxRhP5JXshG+7Y1IOc/BwiYFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 08:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8="
+        }
+      ]
+    },
+    {
+      "Route": "Templates/Analysis.html",
+      "AssetFile": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\wwwroot\\Templates\\Analysis.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 08:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8="
+        }
+      ]
+    },
+    {
+      "Route": "Templates/Analysis.html.gz",
+      "AssetFile": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\obj\\Debug\\net9.0\\compressed\\y0561383mr-jbjtwxdcdn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsvV4Fx7zyGwSJhh5phxRhP5JXshG+7Y1IOc/BwiYFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 08:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsvV4Fx7zyGwSJhh5phxRhP5JXshG+7Y1IOc/BwiYFE="
+        }
+      ]
+    },
+    {
+      "Route": "Templates/Analysis.jbjtwxdcdn.html",
+      "AssetFile": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\obj\\Debug\\net9.0\\compressed\\y0561383mr-jbjtwxdcdn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002032520325"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsvV4Fx7zyGwSJhh5phxRhP5JXshG+7Y1IOc/BwiYFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 08:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbjtwxdcdn"
+        },
+        {
+          "Name": "label",
+          "Value": "Templates/Analysis.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8="
+        }
+      ]
+    },
+    {
+      "Route": "Templates/Analysis.jbjtwxdcdn.html",
+      "AssetFile": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\wwwroot\\Templates\\Analysis.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 08:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbjtwxdcdn"
+        },
+        {
+          "Name": "label",
+          "Value": "Templates/Analysis.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8eQf4z4wrOTy9B0BrJsHG7Iym+k3BowP7wPLJiPJDH8="
+        }
+      ]
+    },
+    {
+      "Route": "Templates/Analysis.jbjtwxdcdn.html.gz",
+      "AssetFile": "C:\\Users\\hp\\source\\Tingtel Assessment\\Tingtel Assessment\\obj\\Debug\\net9.0\\compressed\\y0561383mr-jbjtwxdcdn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsvV4Fx7zyGwSJhh5phxRhP5JXshG+7Y1IOc/BwiYFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 08:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbjtwxdcdn"
+        },
+        {
+          "Name": "label",
+          "Value": "Templates/Analysis.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsvV4Fx7zyGwSJhh5phxRhP5JXshG+7Y1IOc/BwiYFE="
+        }
+      ]
+    }
+  ]
+}

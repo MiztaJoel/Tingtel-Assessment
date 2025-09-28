@@ -1,0 +1,6 @@
+@Tingtel_Assessment_HostAddress = http://localhost:5189
+
+GET {{Tingtel_Assessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

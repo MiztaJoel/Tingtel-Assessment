@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Tingtel Assessment.Api/Templates/Analysis.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Templates\Analysis.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8eQf4z4wrOTy9B0BrJsHG7Iym\u002Bk3BowP7wPLJiPJDH8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"989"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00228eQf4z4wrOTy9B0BrJsHG7Iym\u002Bk3BowP7wPLJiPJDH8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 28 Sep 2025 08:58:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Tingtel Assessment.Api/Templates/Analysis.jbjtwxdcdn.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Templates\Analysis.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jbjtwxdcdn"},{"Name":"integrity","Value":"sha256-8eQf4z4wrOTy9B0BrJsHG7Iym\u002Bk3BowP7wPLJiPJDH8="},{"Name":"label","Value":"_content/Tingtel Assessment.Api/Templates/Analysis.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"989"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00228eQf4z4wrOTy9B0BrJsHG7Iym\u002Bk3BowP7wPLJiPJDH8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 28 Sep 2025 08:58:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
